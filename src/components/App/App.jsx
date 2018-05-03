@@ -8,8 +8,6 @@ class App extends Component {
     super()
     this.state = {
       location:[],
-      testState: 1000,
-      test2: 2000
     }
   }
   render() {
