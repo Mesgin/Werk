@@ -10,7 +10,7 @@ export default class MapContainer extends React.Component {
               <div style={{height:'100vh',width:'auto'}} />
             }
             mapElement={
-              <div style={{height:'100vh',width:'100vw'}} />
+              <div style={{height:'86vh',width:'100vw'}} />
             }
             markers={this.props.markers}
             onMapLoad={this.handleMapLoad}
